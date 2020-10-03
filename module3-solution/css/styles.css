@@ -1,0 +1,39 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+    background-color: #7ba8a7; 
+}
+
+.text {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+}
+
+.btn {
+    width: 100%;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+text-decoration: none;
+}
+
+#menu > .text {
+    color: white;
+}
+
+div .text {
+    color: black;
+}
+
+.plore {
+    background-color:#a1a1a1;
+    border: solid 2px black;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 2%;
+}
+
